@@ -2,6 +2,27 @@
 
 A collection of resources for working with sequential and time series data
 
+- [📈 Time series resources 📉](#-time-series-resources-)
+  - [📦 Packages](#-packages)
+    - [Python](#python)
+      - [Date and Time](#date-and-time)
+      - [Feature Engineering](#feature-engineering)
+      - [Time Series Segmentation & Change Point Detection](#time-series-segmentation--change-point-detection)
+      - [Time Series Augmentation](#time-series-augmentation)
+    - [Java](#java)
+    - [Spark](#spark)
+  - [💻 Repos with Models](#-repos-with-models)
+  - [🗄️ Databases](#️-databases)
+    - [Managed database services](#managed-database-services)
+  - [📚 Books](#-books)
+  - [📊 Visualizations](#-visualizations)
+    - [Python](#python-1)
+    - [JavaScript](#javascript)
+  - [📝 Papers with code](#-papers-with-code)
+  - [🎓 Courses](#-courses)
+  - [🗃 Organizations](#-organizations)
+  - [🕶️ More Awesomeness](#️-more-awesomeness)
+
 ## 📦 Packages
 
 ### Python
@@ -153,8 +174,8 @@ _Visualization tools supporting sequential and time indexed data_
 
 ## 🗃 Organizations
 
-- [https://www.matrixprofile.org/](3D"https://www.matrixprofile.org/") matrix profile foundation
-    
+- [Matrix Profile Foundation](https://www.matrixprofile.org/)
+
 ## 🕶️ More Awesomeness
 	
 - [cuge1995/awesome-time-series](https://github.com/cuge1995/awesome-time-series)
