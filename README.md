@@ -86,7 +86,7 @@ A collection of resources for working with sequential and time series data
 - [time_series_augmentation](https://github.com/uchidalab/time_series_augmentation) An example of time series augmentation methods with Keras.
 
 
-### Java    
+### Java
 
 - [SFA](https://github.com/patrickzib/SFA) Scalable Time Series Data Analytics.
 
@@ -124,6 +124,7 @@ A collection of resources for working with sequential and time series data
 	- [repo with code](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython)
 - [Forecasting principles and practice (3rd ed)](https://otexts.com/fpp3/) 🆓 _Rob J Hyndman and George Athanasopoulos_ 2021
 - [Bayesian Time Series Models ](https://www.cambridge.org/pl/academic/subjects/computer-science/pattern-recognition-and-machine-learning/bayesian-time-series-models?format=HB) 💲 _David Barber, A. Taylan Cemgil, Silvia Chiappa_, Cambridge Academic Press 2011
+- [Visualization of Time-Oriented Data](https://amzn.to/3GITSpD) 💲 _Wolfgang Aigner, Silvia Miksch, Heidrun Schumann, Christian Tominski_, Springer-Verlag 2011
 
 ## 📊 Visualizations
 _Visualization tools supporting sequential and time indexed data_
