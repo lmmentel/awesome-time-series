@@ -101,6 +101,7 @@ A collection of resources for working with sequential and time series data
 ## 🗄️ Databases
 
 - [cassandra](https://cassandra.apache.org/_/index.html) Apache Cassandra is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance.
+- [ClickHouse](https://clickhouse.com/) An open-source, high performance columnar OLAP database management system for real-time analytics using SQL.
 - [cratedb](https://crate.io/use-cases/time-series/) The SQL database for complex, large scale time series workloads in industrial IoT.
 - [druid](https://druid.apache.org/) A high performance real-time analytics database.
 - [fauna](https://fauna.com) Fauna is a flexible, developer-friendly, transactional database delivered as a secure and scalable cloud API with native GraphQL.
