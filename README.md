@@ -183,5 +183,6 @@ _Visualization tools supporting sequential and time indexed data_
 ## 🕶️ More Awesomeness
 	
 - [cuge1995/awesome-time-series](https://github.com/cuge1995/awesome-time-series)
-- [MaxBenChrist/awesome_time_series_in_python](https://github.com/MaxBenChrist/awesome_time_series_in_python) 
+- [MaxBenChrist/awesome_time_series_in_python](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python)
+- [xephonhq/awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database) A curated list of awesome time series databases, benchmarks and papers.
