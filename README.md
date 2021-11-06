@@ -100,6 +100,7 @@ A collection of resources for working with sequential and time series data
 
 ## 🗄️ Databases
 
+- [atlas](https://github.com/Netflix/atlas) In-memory dimensional time series database from Netflix.
 - [cassandra](https://cassandra.apache.org/_/index.html) Apache Cassandra is an open source NoSQL distributed database trusted by thousands of companies for scalability and high availability without compromising performance.
 - [ClickHouse](https://clickhouse.com/) An open-source, high performance columnar OLAP database management system for real-time analytics using SQL.
 - [cratedb](https://crate.io/use-cases/time-series/) The SQL database for complex, large scale time series workloads in industrial IoT.
