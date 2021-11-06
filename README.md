@@ -106,9 +106,10 @@ A collection of resources for working with sequential and time series data
 - [druid](https://druid.apache.org/) A high performance real-time analytics database.
 - [fauna](https://fauna.com) Fauna is a flexible, developer-friendly, transactional database delivered as a secure and scalable cloud API with native GraphQL.
 - [InfluxDB](https://www.influxdata.com/products/influxdb/) Is the essential time series toolkit - dashboards, queries, tasks and agents all in one place.
-- [prometheus](https://prometheus.io/) An open-source systems monitoring and alerting toolkit originally built at [SoundCloud](https://soundcloud.com).
-- [opendTSDB](http://opentsdb.net/) The Scalable Time Series Database.
 - [KairosDB](https://kairosdb.github.io/) Fast Time Series Database on Cassandra.
+- [opendTSDB](http://opentsdb.net/) The Scalable Time Series Database.
+- [prometheus](https://prometheus.io/) An open-source systems monitoring and alerting toolkit originally built at [SoundCloud](https://soundcloud.com).
+- [QuestDB](https://github.com/questdb/questdb) An open source SQL database designed to process time series data, faster.
 - [TimeScaleDB](https://www.timescale.com/) TimescaleDB is the leading open-source relational database with support for time-series data.
 
 ### Managed database services
