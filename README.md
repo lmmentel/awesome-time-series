@@ -96,6 +96,7 @@ A collection of resources for working with sequential and time series data
 
 ## 💻 Repos with Models
 
+- [LSTM-Neural-Network-for-Time-Series-Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) LSTM built using Keras Python package to predict time series steps and sequences.
 - [TensorFlow-Time-Series-Examples](https://github.com/hzy46/TensorFlow-Time-Series-Examples) Time Series Prediction with `tf.contrib.timeseries`
 
 ## 🗄️ Databases
