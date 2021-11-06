@@ -30,11 +30,11 @@ A collection of resources for working with sequential and time series data
 - [cesium](https://github.com/cesium-ml/cesium) Open-Source Platform for Time Series Inference.
 - [darts](https://github.com/unit8co/darts) Time Series Made Easy in Python. A python library for easy manipulation and forecasting of time series.
 - [deeptime](https://github.com/deeptime-ml/deeptime) Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
-- [gordo](https://github.com/equinor/gordo) Building thousands of models with timeseries data to monitor systems.
-- [hmmlearn](https://github.com/hmmlearn/hmmlearn) Hidden Markov Models in Python, with scikit-learn like API.
+- [gordo](https://github.com/equinor/gordo) Building thousands of models with time series data to monitor systems.
+- [hmmlearn](https://github.com/hmmlearn/hmmlearn) Hidden Markov Models in Python, with `scikit-learn` like API.
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines) Survival analysis in Python.
-- [luminaire](https://github.com/zillow/luminaire)A python package that provides ML driven solutions for monitoring time series data. Luminaire provides several anomaly detection and forecasting capabilities that incorporate correlational and seasonal patterns in the data over time as well as uncontrollable variations.
-- [mass-ts](https://github.com/matrix-profile-foundation/mass-ts)  Mueen's Algorithm for Similarity Search, a library used for searching time series sub- sequences under z-normalized Euclidean distance for similarity.
+- [luminaire](https://github.com/zillow/luminaire) A python package that provides ML driven solutions for monitoring time series data. Luminaire provides several anomaly detection and forecasting capabilities that incorporate correlational and seasonal patterns in the data over time as well as uncontrollable variations.
+- [mass-ts](https://github.com/matrix-profile-foundation/mass-ts) Mueen's Algorithm for Similarity Search, a library used for searching time series sub- sequences under z-normalized Euclidean distance for similarity.
 - [matrixprofile](https://github.com/matrix-profile-foundation/matrixprofile) A Python library making time series data mining tasks, utilizing matrix profile algorithms, accessible to everyone.
 - [Merlion](https://github.com/salesforce/Merlion) A Python library for time series intelligence. It provides an end-to-end machine learning framework that includes loading and transforming data, building and training models, post-processing model outputs, and evaluating model performance.
 - [pmdarima](https://github.com/alkaline-ml/pmdarima) A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's `auto.arima` function.
@@ -45,13 +45,13 @@ A collection of resources for working with sequential and time series data
 - [seglearn](https://github.com/dmbee/seglearn) A python package for machine learning time series or sequences.
 - [shyft](https://gitlab.com/shyft-os/shyft) Time-series for python and c++, including distributed storage and calculations Hydrologic Forecasting Toolbox, high-performance flexible stacks, including calibration Energy-market models and micro services.
 - [similarity_measures](https://github.com/cjekel/similarity_measures) Quantify the difference between two arbitrary curves.
-- [sktime](https://github.com/alan-turing-institute/sktime) A [scikit-learn]() compatible Python toolbox for learning with time series.
+- [sktime](https://github.com/alan-turing-institute/sktime) A `scikit-learn` compatible Python toolbox for learning with time series.
 - [statsmodels.tsa](https://www.statsmodels.org/stable/tsa.html) Time Series Analysis (tsa) `statsmodels.tsa` contains model classes and functions that are useful for time series analysis.
 - [stumpy](https://github.com/TDAmeritrade/stumpy) A powerful and scalable Python library that can be used for a variety of time series data mining tasks.
 - [TICC](https://github.com/davidhallac/TICC) A python solver for efficiently segmenting and clustering a multivariate time series.
 - [timemachines](https://github.com/microprediction/timemachines) Continuously evaluated, functional, incremental, time-series forecasting.
-- [TimeSynth](https://github.com/TimeSynth/TimeSynth)  A multipurpose library for synthetic time series in Python.
-- [tslearn](https://github.com/tslearn-team/tslearn)The machine learning toolkit for time series analysis in Python.
+- [TimeSynth](https://github.com/TimeSynth/TimeSynth) A multipurpose library for synthetic time series in Python.
+- [tslearn](https://github.com/tslearn-team/tslearn) The machine learning toolkit for time series analysis in Python.
 - [tsmoothie](https://github.com/cerlymarco/tsmoothie) A python library for time-series smoothing and outlier detection in a vectorized way.
 
 #### Date and Time
@@ -106,14 +106,14 @@ A collection of resources for working with sequential and time series data
 - [druid](https://druid.apache.org/) A high performance real-time analytics database.
 - [fauna](https://fauna.com) Fauna is a flexible, developer-friendly, transactional database delivered as a secure and scalable cloud API with native GraphQL.
 - [InfluxDB](https://www.influxdata.com/products/influxdb/) Is the essential time series toolkit - dashboards, queries, tasks and agents all in one place.
-- [prometheus](https://prometheus.io/)  An open-source systems monitoring and alerting toolkit originally built at [SoundCloud](https://soundcloud.com).
+- [prometheus](https://prometheus.io/) An open-source systems monitoring and alerting toolkit originally built at [SoundCloud](https://soundcloud.com).
 - [opendTSDB](http://opentsdb.net/) The Scalable Time Series Database.
 - [KairosDB](https://kairosdb.github.io/) Fast Time Series Database on Cassandra.
 - [TimeScaleDB](https://www.timescale.com/) TimescaleDB is the leading open-source relational database with support for time-series data.
 
 ### Managed database services
 
-- [Amazon timestream](https://aws.amazon.com/timestream/) Amazon Timestream is a fast, scalable, and serverless time series database service for IoT and operational applications.
+- [Amazon Timestream](https://aws.amazon.com/timestream/) A fast, scalable, and serverless time series database service for IoT and operational applications.
 - [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/#overview) Fully managed, intelligent, and scalable PostgreSQL with support for TimeScaleDB.
 - [Azure time series insights](https://azure.microsoft.com/en-us/services/time-series-insights/) Visualize IoT data in real time.
 - [InfluxDB Cloud](https://www.influxdata.com/products/influxdb-cloud/) It’s a fast, elastic, serverless real-time monitoring platform, dashboarding engine, analytics service and event and metrics processor.
