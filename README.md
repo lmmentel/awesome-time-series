@@ -9,16 +9,16 @@ A collection of resources for working with sequential and time series data
       - [Feature Engineering](#feature-engineering)
       - [Time Series Segmentation & Change Point Detection](#time-series-segmentation--change-point-detection)
       - [Time Series Augmentation](#time-series-augmentation)
+      - [Visualization](#visualization)
     - [Java](#java)
+    - [JavaScript](#javascript)
+      - [Visualization](#visualization-1)
     - [Spark](#spark)
-  - [💻 Repos with Models](#-repos-with-models)
   - [🗄️ Databases](#️-databases)
     - [Managed database services](#managed-database-services)
-  - [📚 Books](#-books)
-  - [📊 Visualizations](#-visualizations)
-    - [Python](#python-1)
-    - [JavaScript](#javascript)
   - [📝 Papers with code](#-papers-with-code)
+  - [💻 Repos with Models](#-repos-with-models)
+  - [📚 Books](#-books)
   - [🎓 Courses](#-courses)
   - [💬 Communities](#-communities)
   - [🗃 Organizations](#-organizations)
@@ -86,20 +86,28 @@ A collection of resources for working with sequential and time series data
 - [tsaug](https://github.com/arundo/tsaug) A Python package for time series augmentation.
 - [time_series_augmentation](https://github.com/uchidalab/time_series_augmentation) An example of time series augmentation methods with Keras.
 
+#### Visualization
+
+- [atlair](https://github.com/altair-viz/altair) Declarative statistical visualization library for Python.
+- [matplotlib](https://matplotlib.org/) A comprehensive library for creating static, animated, and interactive visualizations in Python.
+- [plotly](https://plotly.com/) A graphing library makes interactive, publication-quality graphs.
+- [seaborn](https://seaborn.pydata.org/) A data visualization library based on [matplotlib](https://matplotlib.org) that provides a high-level interface for drawing attractive and informative statistical graphics.
 
 ### Java
 
 - [SFA](https://github.com/patrickzib/SFA) Scalable Time Series Data Analytics.
 
+### JavaScript
+
+#### Visualization
+
+- [cubism](https://github.com/square/cubism) A [D3](http://d3js.org) plugin for visualizing time series. Use Cubism to construct better realtime dashboards, pulling data from [Graphite](https://github.com/square/cubism/wiki/Graphite), [Cube](https://github.com/square/cubism/wiki/Cube) and other sources.
+- [echarts](https://github.com/apache/echarts) A free, powerful charting and visualization library offering an easy way of adding intuitive, interactive, and highly customizable charts to your commercial products.
+- [highcharts](https://github.com/highcharts/highcharts) A JavaScript charting library based on SVG, with fallbacks to VML and canvas for old browsers. 
+
 ### Spark
 
 - [flint](https://github.com/twosigma/flint) A Time Series Library for Apache Spark.
-
-## 💻 Repos with Models
-
-- [LSTM-Neural-Network-for-Time-Series-Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) LSTM built using Keras Python package to predict time series steps and sequences.
-- [TensorFlow-Time-Series-Examples](https://github.com/hzy46/TensorFlow-Time-Series-Examples) Time Series Prediction with `tf.contrib.timeseries`
-- [TimeSeries](https://github.com/zhykoties/TimeSeries) Implementation of deep learning models for time series in PyTorch.
 
 ## 🗄️ Databases
 
@@ -124,32 +132,6 @@ A collection of resources for working with sequential and time series data
 - [InfluxDB Cloud](https://www.influxdata.com/products/influxdb-cloud/) It’s a fast, elastic, serverless real-time monitoring platform, dashboarding engine, analytics service and event and metrics processor.
 - [TimeScaleDB Cloud](https://www.timescale.com/products/#Timescale-Cloud) Managed TimeScaleDB service.
 
-## 📚 Books
-
-- [Bayesian Time Series Models ](https://www.cambridge.org/pl/academic/subjects/computer-science/pattern-recognition-and-machine-learning/bayesian-time-series-models?format=HB) 💲 _David Barber, A. Taylan Cemgil, Silvia Chiappa_, Cambridge Academic Press 2011
-- [Forecasting principles and practice (3rd ed)](https://otexts.com/fpp3/) 🆓 _Rob J Hyndman and George Athanasopoulos_ 2021
-- [Practical Time Series Analysis](https://www.packtpub.com/product/practical-time-series-analysis/9781788290227) 💲 _Avishek Pal, PKS Prakash_, Packt 2017
-  - [repo with code](https://github.com/PacktPublishing/Practical-Time-Series-Analysis)
-- [Practical Time Series Analysis: Prediction with Statistics and Machine Learning](https://www.oreilly.com/library/view/practical-time-series/9781492041641/) 💲  _Aileen Nielsen_, O’Reilly 2019
-	- [repo with code](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython)
-- [Visualization of Time-Oriented Data](https://amzn.to/3GITSpD) 💲 _Wolfgang Aigner, Silvia Miksch, Heidrun Schumann, Christian Tominski_, Springer-Verlag 2011
-
-## 📊 Visualizations
-_Visualization tools supporting sequential and time indexed data_
-
-### Python
-
-- [atlair](https://github.com/altair-viz/altair) Declarative statistical visualization library for Python.
-- [matplotlib](https://matplotlib.org/) A comprehensive library for creating static, animated, and interactive visualizations in Python.
-- [plotly](https://plotly.com/) A graphing library makes interactive, publication-quality graphs.
-- [seaborn](https://seaborn.pydata.org/) A data visualization library based on [matplotlib](https://matplotlib.org) that provides a high-level interface for drawing attractive and informative statistical graphics.
-
-### JavaScript
-
-- [cubism](https://github.com/square/cubism) A [D3](http://d3js.org) plugin for visualizing time series. Use Cubism to construct better realtime dashboards, pulling data from [Graphite](https://github.com/square/cubism/wiki/Graphite), [Cube](https://github.com/square/cubism/wiki/Cube) and other sources.
-- [echarts](https://github.com/apache/echarts) A free, powerful charting and visualization library offering an easy way of adding intuitive, interactive, and highly customizable charts to your commercial products.
-- [highcharts](https://github.com/highcharts/highcharts) A JavaScript charting library based on SVG, with fallbacks to VML and canvas for old browsers. 
-
 ## 📝 Papers with code
 
 - **Greedy Gaussian Segmentation of Multivariate Time Series**, _D. Hallac, P. Nystrup, and S. Boyd_, Advances in Data Analysis and Classification, 13(3), 727–751, 2019.
@@ -172,6 +154,22 @@ _Visualization tools supporting sequential and time indexed data_
 	- [paper](https://arxiv.org/abs/1511.03677)
 	- [code](https://github.com/aqibsaeed/Multilabel-timeseries-classification-with-LSTM)
 
+## 💻 Repos with Models
+
+- [LSTM-Neural-Network-for-Time-Series-Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) LSTM built using Keras Python package to predict time series steps and sequences.
+- [TensorFlow-Time-Series-Examples](https://github.com/hzy46/TensorFlow-Time-Series-Examples) Time Series Prediction with `tf.contrib.timeseries`
+- [TimeSeries](https://github.com/zhykoties/TimeSeries) Implementation of deep learning models for time series in PyTorch.
+
+## 📚 Books
+
+- [Bayesian Time Series Models ](https://www.cambridge.org/pl/academic/subjects/computer-science/pattern-recognition-and-machine-learning/bayesian-time-series-models?format=HB) 💲 _David Barber, A. Taylan Cemgil, Silvia Chiappa_, Cambridge Academic Press 2011
+- [Forecasting principles and practice (3rd ed)](https://otexts.com/fpp3/) 🆓 _Rob J Hyndman and George Athanasopoulos_ 2021
+- [Practical Time Series Analysis](https://www.packtpub.com/product/practical-time-series-analysis/9781788290227) 💲 _Avishek Pal, PKS Prakash_, Packt 2017
+  - [repo with code](https://github.com/PacktPublishing/Practical-Time-Series-Analysis)
+- [Practical Time Series Analysis: Prediction with Statistics and Machine Learning](https://www.oreilly.com/library/view/practical-time-series/9781492041641/) 💲  _Aileen Nielsen_, O’Reilly 2019
+	- [repo with code](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython)
+- [Visualization of Time-Oriented Data](https://amzn.to/3GITSpD) 💲 _Wolfgang Aigner, Silvia Miksch, Heidrun Schumann, Christian Tominski_, Springer-Verlag 2011
+
 ## 🎓 Courses
 
 - [Analytics Vidhya - Time Series Forecasting using Python](https://courses.analyticsvidhya.com/courses/creating-time-series-forecast-using-python)
@@ -191,7 +189,7 @@ _Visualization tools supporting sequential and time indexed data_
 - [Matrix Profile Foundation](https://www.matrixprofile.org/)
 
 ## 🕶️ More Awesomeness
-	
+
 - [cuge1995/awesome-time-series](https://github.com/cuge1995/awesome-time-series)
 - [MaxBenChrist/awesome_time_series_in_python](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python)
