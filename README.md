@@ -20,6 +20,7 @@ A collection of resources for working with sequential and time series data
     - [JavaScript](#javascript)
   - [📝 Papers with code](#-papers-with-code)
   - [🎓 Courses](#-courses)
+  - [💬 Communities](#-communities)
   - [🗃 Organizations](#-organizations)
   - [🕶️ More Awesomeness](#️-more-awesomeness)
 
@@ -180,6 +181,10 @@ _Visualization tools supporting sequential and time indexed data_
 - [Data For Science - Time Series for Everyone](https://data4sci.com/timeseries)
 - [Kaggle - Time Series](https://www.kaggle.com/learn/time-series)
 - [Udacity - Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
+
+## 💬 Communities
+
+- [r/TimeSeries](https://www.reddit.com/r/TimeSeries) Subreddit for graphs of time series and predictions based on time series.
 
 ## 🗃 Organizations
 
