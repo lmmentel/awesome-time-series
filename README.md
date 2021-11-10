@@ -94,6 +94,12 @@ A collection of resources for working with sequential and time series data
 - [plotly](https://plotly.com/) A graphing library makes interactive, publication-quality graphs.
 - [seaborn](https://seaborn.pydata.org/) A data visualization library based on [matplotlib](https://matplotlib.org) that provides a high-level interface for drawing attractive and informative statistical graphics.
 
+#### Benchmarking & Contests
+
+- [timeseries-elo-ratings](https://github.com/microprediction/timeseries-elo-ratings) computes [Elo ratings](https://microprediction.github.io/timeseries-elo-ratings/html_leaderboards/overall.html).
+- [m6](https://github.com/microprediction/m6) Provides utilities for the [M6-Competition](https://mofc.unic.ac.cy/the-m6-competition/)
+- Microprediction time-series [competitions](https://www.microprediction.com/competitions) 
+
 ### Java
 
 - [SFA](https://github.com/patrickzib/SFA) Scalable Time Series Data Analytics.
