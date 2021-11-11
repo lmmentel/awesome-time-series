@@ -10,6 +10,7 @@ A collection of resources for working with sequential and time series data
       - [Time Series Segmentation & Change Point Detection](#time-series-segmentation--change-point-detection)
       - [Time Series Augmentation](#time-series-augmentation)
       - [Visualization](#visualization)
+    - [R](#r)
     - [Java](#java)
     - [JavaScript](#javascript)
       - [Visualization](#visualization-1)
@@ -93,6 +94,10 @@ A collection of resources for working with sequential and time series data
 - [matplotlib](https://matplotlib.org/) A comprehensive library for creating static, animated, and interactive visualizations in Python.
 - [plotly](https://plotly.com/) A graphing library makes interactive, publication-quality graphs.
 - [seaborn](https://seaborn.pydata.org/) A data visualization library based on [matplotlib](https://matplotlib.org) that provides a high-level interface for drawing attractive and informative statistical graphics.
+
+### R
+
+- [modeltime](https://github.com/business-science/modeltime) Modeltime unlocks time series forecast models and machine learning in one framework.
 
 ### Java
 
