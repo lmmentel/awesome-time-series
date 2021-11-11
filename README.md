@@ -117,6 +117,7 @@ A collection of resources for working with sequential and time series data
 - [cubism](https://github.com/square/cubism) A [D3](http://d3js.org) plugin for visualizing time series. Use Cubism to construct better realtime dashboards, pulling data from [Graphite](https://github.com/square/cubism/wiki/Graphite), [Cube](https://github.com/square/cubism/wiki/Cube) and other sources.
 - [echarts](https://github.com/apache/echarts) A free, powerful charting and visualization library offering an easy way of adding intuitive, interactive, and highly customizable charts to your commercial products.
 - [highcharts](https://github.com/highcharts/highcharts) A JavaScript charting library based on SVG, with fallbacks to VML and canvas for old browsers. 
+- [synchro-charts](https://github.com/awslabs/synchro-charts) A front-end component library that provides a collection of components to visualize time-series data.
 
 ### Spark
 
