@@ -24,6 +24,7 @@ A collection of resources for working with sequential and time series data
   - [🎓 Courses](#-courses)
   - [💬 Communities](#-communities)
   - [🗃 Organizations](#-organizations)
+  - [� Commercial Platforms](#-commercial-platforms)
   - [🕶️ More Awesomeness](#️-more-awesomeness)
 
 ## 📦 Packages
@@ -202,6 +203,10 @@ A collection of resources for working with sequential and time series data
 ## 🗃 Organizations
 
 - [Matrix Profile Foundation](https://www.matrixprofile.org/)
+
+## 💼 Commercial Platforms
+
+- [HAKOM TSM Platform](https://www.hakom.at/en/portfolio/technology/feasyuse/) Comprehensive functionality for pre-processing and storing time series from different sources in different formats for all analytical and operational purposes.
 
 ## 🕶️ More Awesomeness
 
