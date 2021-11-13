@@ -18,6 +18,7 @@ A collection of resources for working with sequential and time series data
     - [Spark](#spark)
   - [🗄️ Databases](#️-databases)
     - [Managed database services](#managed-database-services)
+  - [✏️ Annotation and Labeling](#️-annotation-and-labeling)
   - [📝 Papers with code](#-papers-with-code)
   - [💻 Repos with Models](#-repos-with-models)
   - [📚 Books](#-books)
@@ -96,6 +97,7 @@ A collection of resources for working with sequential and time series data
 - [matplotlib](https://matplotlib.org/) A comprehensive library for creating static, animated, and interactive visualizations in Python.
 - [plotly](https://plotly.com/) A graphing library makes interactive, publication-quality graphs.
 - [seaborn](https://seaborn.pydata.org/) A data visualization library based on [matplotlib](https://matplotlib.org) that provides a high-level interface for drawing attractive and informative statistical graphics.
+
 #### Benchmarking & Contests
 
 - [timeseries-elo-ratings](https://github.com/microprediction/timeseries-elo-ratings) computes [Elo ratings](https://microprediction.github.io/timeseries-elo-ratings/html_leaderboards/overall.html).
@@ -147,6 +149,14 @@ A collection of resources for working with sequential and time series data
 - [Azure time series insights](https://azure.microsoft.com/en-us/services/time-series-insights/) Visualize IoT data in real time.
 - [InfluxDB Cloud](https://www.influxdata.com/products/influxdb-cloud/) It’s a fast, elastic, serverless real-time monitoring platform, dashboarding engine, analytics service and event and metrics processor.
 - [TimeScaleDB Cloud](https://www.timescale.com/products/#Timescale-Cloud) Managed TimeScaleDB service.
+
+## ✏️ Annotation and Labeling
+
+- [AnnotateChange](https://github.com/alan-turing-institute/AnnotateChange) - A simple flask application to collect annotations for the Turing Change Point Dataset, a benchmark dataset for change point detection algorithms.
+- [Curve](https://github.com/baidu/Curve) - An open-source tool to help label anomalies on time-series data
+- [TagAnomaly](https://github.com/Microsoft/TagAnomaly) - Anomaly detection analysis and labeling tool, specifically for multiple time series (one time series per category)
+- [time-series-annotator](https://github.com/CrowdCurio/time-series-annotator) - Time Series Annotation Library implements classification tasks for time series.
+- [WDK](https://github.com/avenix/WDK) - The Wearables Development Toolkit (WDK) is a set of tools to facilitate the development of activity recognition applications with wearable devices.
 
 ## 📝 Papers with code
 
