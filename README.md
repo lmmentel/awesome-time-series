@@ -24,7 +24,7 @@ A collection of resources for working with sequential and time series data
   - [🎓 Courses](#-courses)
   - [💬 Communities](#-communities)
   - [🗃 Organizations](#-organizations)
-  - [� Commercial Platforms](#-commercial-platforms)
+  - [💼 Commercial Platforms](#-commercial-platforms)
   - [🕶️ More Awesomeness](#️-more-awesomeness)
 
 ## 📦 Packages
