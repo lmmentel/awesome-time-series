@@ -187,6 +187,7 @@ A collection of resources for working with sequential and time series data
 
 ## 💻 Repos with Models
 
+- [ESRNN-GPU](https://github.com/damitkwr/ESRNN-GPU) PyTorch GPU implementation of the ES-RNN model for time series forecasting.
 - [LSTM-Neural-Network-for-Time-Series-Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) LSTM built using Keras Python package to predict time series steps and sequences.
 - [TensorFlow-Time-Series-Examples](https://github.com/hzy46/TensorFlow-Time-Series-Examples) Time Series Prediction with `tf.contrib.timeseries`
 - [TimeSeries](https://github.com/zhykoties/TimeSeries) Implementation of deep learning models for time series in PyTorch.
