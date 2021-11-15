@@ -38,6 +38,7 @@ A collection of resources for working with sequential and time series data
 - [deeptime](https://github.com/deeptime-ml/deeptime) Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
 - [gordo](https://github.com/equinor/gordo) Building thousands of models with time series data to monitor systems.
 - [hmmlearn](https://github.com/hmmlearn/hmmlearn) Hidden Markov Models in Python, with `scikit-learn` like API.
+- [kats](https://github.com/facebookresearch/kats) A kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines) Survival analysis in Python.
 - [luminaire](https://github.com/zillow/luminaire) A python package that provides ML driven solutions for monitoring time series data. Luminaire provides several anomaly detection and forecasting capabilities that incorporate correlational and seasonal patterns in the data over time as well as uncontrollable variations.
 - [mass-ts](https://github.com/matrix-profile-foundation/mass-ts) Mueen's Algorithm for Similarity Search, a library used for searching time series sub- sequences under z-normalized Euclidean distance for similarity.
