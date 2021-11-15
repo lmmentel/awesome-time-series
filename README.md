@@ -194,6 +194,8 @@ A collection of resources for working with sequential and time series data
   - [repo with code](https://github.com/PacktPublishing/Practical-Time-Series-Analysis)
 - [Practical Time Series Analysis: Prediction with Statistics and Machine Learning](https://www.oreilly.com/library/view/practical-time-series/9781492041641/) 💲  _Aileen Nielsen_, O’Reilly 2019
 	- [repo with code](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython)
+- [Machine Learning for Time-Series with Python](https://www.packtpub.com/product/machine-learning-for-time-series-with-python/9781801819626) 💲 _Ben Auffarth_, Packt Publishing 2021
+  - [repo with code](https://github.com/PacktPublishing/Machine-Learning-for-Time-Series-with-Python)
 - [Visualization of Time-Oriented Data](https://amzn.to/3GITSpD) 💲 _Wolfgang Aigner, Silvia Miksch, Heidrun Schumann, Christian Tominski_, Springer-Verlag 2011
 
 ## 🎓 Courses
