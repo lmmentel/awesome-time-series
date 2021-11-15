@@ -165,6 +165,10 @@ A collection of resources for working with sequential and time series data
 
 ## 📝 Papers with code
 
+- **Deep learning for time series classification: a review**, _H. I. Fawaz, G. Forestier, J. Weber, L. Idoumghar, P-A. Muller_, Data Mining and Knowledge Discovery 2019
+  - [code](https://github.com/hfawaz/dl-4-tsc)
+  - [paper](https://arxiv.org/abs/1809.04356v3)
+
 - **Greedy Gaussian Segmentation of Multivariate Time Series**, _D. Hallac, P. Nystrup, and S. Boyd_, Advances in Data Analysis and Classification, 13(3), 727–751, 2019.
 	- [code](https://github.com/cvxgrp/GGS)
 	- [paper](http://stanford.edu/~boyd/papers/ggs.html)
