@@ -196,6 +196,7 @@ A collection of resources for working with sequential and time series data
 - [ROCKET](https://github.com/angus924/rocket) Exceptionally fast and accurate time series classification using random convolutional kernels.
 - [TensorFlow-Time-Series-Examples](https://github.com/hzy46/TensorFlow-Time-Series-Examples) Time Series Prediction with `tf.contrib.timeseries`
 - [TimeSeries](https://github.com/zhykoties/TimeSeries) Implementation of deep learning models for time series in PyTorch.
+- [UCR_Time_Series_Classification_Deep_Learning_Baseline](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline) Fully Convlutional Neural Networks for state-of-the-art time series classification.
 
 ## 📚 Books
 
