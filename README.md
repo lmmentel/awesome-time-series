@@ -117,6 +117,7 @@ A collection of resources for working with sequential and time series data
 ### Java
 
 - [SFA](https://github.com/patrickzib/SFA) Scalable Time Series Data Analytics.
+- [tsml](https://github.com/uea-machine-learning/tsml) Java time series machine learning tools in a Weka compatible toolkit.
 
 ### JavaScript
 
