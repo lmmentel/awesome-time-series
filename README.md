@@ -112,9 +112,10 @@ A collection of resources for working with sequential and time series data
 
 ### R
 
-- [fable](https://github.com/tidyverts/fable) Tidy time series forecasting.
+- [fable](https://github.com/tidyverts/fable) A [tidyverts](https://github.com/tidyverts) package for tidy time series forecasting.
 - [modeltime](https://github.com/business-science/modeltime) Modeltime unlocks time series forecast models and machine learning in one framework.
 - [timetk](https://github.com/business-science/timetk) A `tidyverse` toolkit to visualize, wrangle, and transform time series data.
+- [tsibble](https://github.com/tidyverts/tsibble) A [tidyverts](https://github.com/tidyverts) package with tidy temporal data frames and tools.
 
 ### Java
 
