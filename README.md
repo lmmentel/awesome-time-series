@@ -37,6 +37,7 @@ A collection of resources for working with sequential and time series data
 - [cesium](https://github.com/cesium-ml/cesium) Open-Source Platform for Time Series Inference.
 - [darts](https://github.com/unit8co/darts) Time Series Made Easy in Python. A python library for easy manipulation and forecasting of time series.
 - [deeptime](https://github.com/deeptime-ml/deeptime) Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
+- [dtw-python](https://github.com/DynamicTimeWarping/dtw-python) Python port of R's Comprehensive Dynamic Time Warp algorithm package.
 - [gluon-ts](https://github.com/awslabs/gluon-ts) Probabilistic time series modeling in Python from AWS.
 - [gordo](https://github.com/equinor/gordo) Building thousands of models with time series data to monitor systems.
 - [greykite](https://github.com/linkedin/greykite) A flexible, intuitive and fast forecasting library from LinkedIn.
