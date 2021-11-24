@@ -84,6 +84,7 @@ A collection of resources for working with sequential and time series data
 #### Feature Engineering
 
 - [featuretools](https://github.com/alteryx/featuretools) An open source python library for automated feature engineering.
+- [tsfel](https://github.com/fraunhoferportugal/tsfel) An intuitive library to extract features from time series.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) The package contains many feature extraction methods and a robust feature selection algorithm.
 
 #### Time Series Segmentation & Change Point Detection
