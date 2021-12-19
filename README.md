@@ -118,7 +118,8 @@ A collection of resources for working with sequential and time series data
 
 - [timeseries-elo-ratings](https://github.com/microprediction/timeseries-elo-ratings) computes [Elo ratings](https://microprediction.github.io/timeseries-elo-ratings/html_leaderboards/overall.html).
 - [m6](https://github.com/microprediction/m6) Provides utilities for the [M6-Competition](https://mofc.unic.ac.cy/the-m6-competition/)
-- Microprediction time-series [competitions](https://www.microprediction.com/competitions) 
+- Microprediction time-series [competitions](https://www.microprediction.com/competitions)
+- [SKAB](https://github.com/waico/SKAB) Skoltech Anomaly Benchmark. Time-series data for evaluating Anomaly Detection algorithms.
 
 ### R
 
