@@ -69,6 +69,7 @@ A collection of resources for working with sequential and time series data
 - [TICC](https://github.com/davidhallac/TICC) A python solver for efficiently segmenting and clustering a multivariate time series.
 - [timemachines](https://github.com/microprediction/timemachines) Continuously evaluated, functional, incremental, time-series forecasting.
 - [TimeSynth](https://github.com/TimeSynth/TimeSynth) A multipurpose library for synthetic time series in Python.
+- [TimeSeers](https://github.com/MBrouns/timeseers) A hierarchical Bayesian Time Series model based on Prophet, written in PyMC3.
 - [tsai](https://github.com/timeseriesAI/tsai) State-of-the-art Deep Learning library for Time Series and Sequences.
 - [tsflex](https://github.com/predict-idlab/tsflex) Flexible time series feature extraction & processing.
 - [tslearn](https://github.com/tslearn-team/tslearn) The machine learning toolkit for time series analysis in Python.
