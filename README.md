@@ -190,6 +190,9 @@ A collection of resources for working with sequential and time series data
 ## 💬 Communities
 
 - [r/TimeSeries](https://www.reddit.com/r/TimeSeries) Subreddit for graphs of time series and predictions based on time series.
+- [sktime gitter](https://gitter.im/sktime/community)
+- [microprediction slack](https://github.com/microprediction) invite. 
+- [pycaret slack](https://github.com/pycaret/pycaret/discussions/1003) see time-series chat. 
 
 ## 🗃 Organizations
 
@@ -201,3 +204,4 @@ A collection of resources for working with sequential and time series data
 - [MaxBenChrist/awesome_time_series_in_python](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python)
 - [xephonhq/awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database) A curated list of awesome time series databases, benchmarks and papers.
+- [awesome python benchmarks](https://github.com/microprediction/awesome-python-benchmarks) Timeseries benchmarking mostly. 
