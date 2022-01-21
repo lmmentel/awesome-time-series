@@ -264,4 +264,5 @@ A collection of resources for working with sequential and time series data
 - [MaxBenChrist/awesome_time_series_in_python](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python)
 - [xephonhq/awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database) A curated list of awesome time series databases, benchmarks and papers.
-- [awesome python benchmarks](https://github.com/microprediction/awesome-python-benchmarks) Timeseries benchmarking mostly. 
+- [awesome python benchmarks](https://github.com/microprediction/awesome-python-benchmarks) Timeseries benchmarking mostly.
+- [Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series) List of state of the art papers focus on deep learning and resources, code and experiments using deep learning for time series forecasting.
