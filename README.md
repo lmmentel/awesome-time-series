@@ -34,10 +34,18 @@ A collection of resources for working with sequential and time series data
 
 - [adtk](https://github.com/arundo/adtk) A Python toolkit for rule-based/unsupervised anomaly detection in time series.
 - [alibi-detect](https://github.com/SeldonIO/alibi-detect) Algorithms for outlier, adversarial and drift detection.
+- [AutoTS](https://github.com/winedarksea/AutoTS) A time series package for Python designed for rapidly deploying high-accuracy forecasts at scale.
+- [Auto_TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows.
+- [catch22](https://github.com/chlubba/catch22) CAnonical Time-series CHaracteristics, 22 high-performing time-series features in C, Python nad Julia.
 - [cesium](https://github.com/cesium-ml/cesium) Open-Source Platform for Time Series Inference.
 - [darts](https://github.com/unit8co/darts) Time Series Made Easy in Python. A python library for easy manipulation and forecasting of time series.
 - [deeptime](https://github.com/deeptime-ml/deeptime) Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
+- [dtw-python](https://github.com/DynamicTimeWarping/dtw-python) Python port of R's Comprehensive Dynamic Time Warp algorithm package.
+- [etna](https://github.com/tinkoff-ai/etna) ETNA is an easy-to-use time series forecasting framework.
+- [fost](https://github.com/microsoft/FOST) Forecasting open source tool aims to provide an easy-use tool for spatial-temporal forecasting.
+- [gluon-ts](https://github.com/awslabs/gluon-ts) Probabilistic time series modeling in Python from AWS.
 - [gordo](https://github.com/equinor/gordo) Building thousands of models with time series data to monitor systems.
+- [greykite](https://github.com/linkedin/greykite) A flexible, intuitive and fast forecasting library from LinkedIn.
 - [hmmlearn](https://github.com/hmmlearn/hmmlearn) Hidden Markov Models in Python, with `scikit-learn` like API.
 - [kats](https://github.com/facebookresearch/kats) A kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines) Survival analysis in Python.
@@ -45,12 +53,15 @@ A collection of resources for working with sequential and time series data
 - [mass-ts](https://github.com/matrix-profile-foundation/mass-ts) Mueen's Algorithm for Similarity Search, a library used for searching time series sub- sequences under z-normalized Euclidean distance for similarity.
 - [matrixprofile](https://github.com/matrix-profile-foundation/matrixprofile) A Python library making time series data mining tasks, utilizing matrix profile algorithms, accessible to everyone.
 - [Merlion](https://github.com/salesforce/Merlion) A Python library for time series intelligence. It provides an end-to-end machine learning framework that includes loading and transforming data, building and training models, post-processing model outputs, and evaluating model performance.
+- [orbit](https://github.com/uber/orbit) A package for Bayesian forecasting with object-oriented design and probabilistic models under the hood from Uber.
 - [pastas](https://github.com/pastas/pastas) An open-source Python framework for the analysis of hydrological time series.
 - [pmdarima](https://github.com/alkaline-ml/pmdarima) A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's `auto.arima` function.
 - [prophet](https://github.com/facebook/prophet) Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [PyDLM](https://github.com/wwrechard/pydlm) Bayesian time series modeling package. Based on the Bayesian dynamic linear model (Harrison and West, 1999) and optimized for fast model fitting and inference.
 - [PyFlux](https://github.com/RJT1990/pyflux) Open source time series library for Python.
 - [Pyod](https://github.com/yzhao062/Pyod) A Python toolbox for scalable outlier detection (Anomaly Detection).
+- [scalecast](https://github.com/mikekeith52/scalecast) A scaleable forecasting approach for Timeseries in Python
+- [scikit-hts](https://github.com/carlomazzaferro/scikit-hts) Hierarchical Time Series Forecasting with a familiar API.
 - [seglearn](https://github.com/dmbee/seglearn) A python package for machine learning time series or sequences.
 - [shyft](https://gitlab.com/shyft-os/shyft) Time-series for python and c++, including distributed storage and calculations Hydrologic Forecasting Toolbox, high-performance flexible stacks, including calibration Energy-market models and micro services.
 - [similarity_measures](https://github.com/cjekel/similarity_measures) Quantify the difference between two arbitrary curves.
@@ -60,6 +71,10 @@ A collection of resources for working with sequential and time series data
 - [TICC](https://github.com/davidhallac/TICC) A python solver for efficiently segmenting and clustering a multivariate time series.
 - [timemachines](https://github.com/microprediction/timemachines) Continuously evaluated, functional, incremental, time-series forecasting.
 - [TimeSynth](https://github.com/TimeSynth/TimeSynth) A multipurpose library for synthetic time series in Python.
+- [TimeSeers](https://github.com/MBrouns/timeseers) A hierarchical Bayesian Time Series model based on Prophet, written in PyMC3.
+- [Time Series Generator](https://pypi.org/project/time-series-generator/) Provides a solution for the direct multi-step outputs limitation in Keras.
+- [tsai](https://github.com/timeseriesAI/tsai) State-of-the-art Deep Learning library for Time Series and Sequences.
+- [tsflex](https://github.com/predict-idlab/tsflex) Flexible time series feature extraction & processing.
 - [tslearn](https://github.com/tslearn-team/tslearn) The machine learning toolkit for time series analysis in Python.
 - [tsmoothie](https://github.com/cerlymarco/tsmoothie) A python library for time-series smoothing and outlier detection in a vectorized way.
 
@@ -67,7 +82,7 @@ A collection of resources for working with sequential and time series data
 *Libraries for working with dates and times.*
 
 - [astral](https://github.com/sffjunkie/astral) Python calculations for the position of the sun and moon.
-- [Arrow](https://arrow.readthedocs.io/en/latest/) - A Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.
+- [Arrow](https://github.com/arrow-py/arrow) - A Python library that offers a sensible and human-friendly approach to creating, manipulating, formatting and converting dates, times and timestamps.
 - [Chronyk](https://github.com/KoffeinFlummi/Chronyk) - A Python 3 library for parsing human-written times and dates.
 - [dateutil](https://github.com/dateutil/dateutil) - Extensions to the standard Python [datetime](https://docs.python.org/3/library/datetime.html) module.
 - [delorean](https://github.com/myusuf3/delorean/) - A library for clearing up the inconvenient truths that arise dealing with datetimes.
@@ -81,6 +96,7 @@ A collection of resources for working with sequential and time series data
 #### Feature Engineering
 
 - [featuretools](https://github.com/alteryx/featuretools) An open source python library for automated feature engineering.
+- [tsfel](https://github.com/fraunhoferportugal/tsfel) An intuitive library to extract features from time series.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) The package contains many feature extraction methods and a robust feature selection algorithm.
 
 #### Time Series Segmentation & Change Point Detection
@@ -99,24 +115,31 @@ A collection of resources for working with sequential and time series data
 #### Visualization
 
 - [atlair](https://github.com/altair-viz/altair) Declarative statistical visualization library for Python.
-- [matplotlib](https://matplotlib.org/) A comprehensive library for creating static, animated, and interactive visualizations in Python.
-- [plotly](https://plotly.com/) A graphing library makes interactive, publication-quality graphs.
-- [seaborn](https://seaborn.pydata.org/) A data visualization library based on [matplotlib](https://matplotlib.org) that provides a high-level interface for drawing attractive and informative statistical graphics.
+- [matplotlib](https://github.com/matplotlib/matplotlib) A comprehensive library for creating static, animated, and interactive visualizations in Python.
+- [plotly](https://github.com/plotly/plotly.py) A graphing library makes interactive, publication-quality graphs.
+- [seaborn](https://github.com/mwaskom/seaborn) A data visualization library based on [matplotlib](https://matplotlib.org) that provides a high-level interface for drawing attractive and informative statistical graphics.
 
 #### Benchmarking & Contests
 
 - [timeseries-elo-ratings](https://github.com/microprediction/timeseries-elo-ratings) computes [Elo ratings](https://microprediction.github.io/timeseries-elo-ratings/html_leaderboards/overall.html).
 - [m6](https://github.com/microprediction/m6) Provides utilities for the [M6-Competition](https://mofc.unic.ac.cy/the-m6-competition/)
-- Microprediction time-series [competitions](https://www.microprediction.com/competitions) 
+- Microprediction time-series [competitions](https://www.microprediction.com/competitions)
+- [SKAB](https://github.com/waico/SKAB) Skoltech Anomaly Benchmark. Time-series data for evaluating Anomaly Detection algorithms.
 
 ### R
 
+- [CausalImpact](https://google.github.io/CausalImpact/CausalImpact.html) An R package for causal inference using Bayesian structural time-series models.
+- [fable](https://github.com/tidyverts/fable) A [tidyverts](https://github.com/tidyverts) package for tidy time series forecasting.
+- [feasts](https://github.com/tidyverts/feasts) A [tidyverts](https://github.com/tidyverts) package for feature extraction and statistics for time series.
 - [modeltime](https://github.com/business-science/modeltime) Modeltime unlocks time series forecast models and machine learning in one framework.
 - [timetk](https://github.com/business-science/timetk) A `tidyverse` toolkit to visualize, wrangle, and transform time series data.
+- [tsibble](https://github.com/tidyverts/tsibble) A [tidyverts](https://github.com/tidyverts) package with tidy temporal data frames and tools.
+- [fasster](https://github.com/tidyverts/fasster) A [tidyverts](https://github.com/tidyverts) package for forecasting with additive switching of seasonality, trend and exogenous regressors.
 
 ### Java
 
 - [SFA](https://github.com/patrickzib/SFA) Scalable Time Series Data Analytics.
+- [tsml](https://github.com/uea-machine-learning/tsml) Java time series machine learning tools in a Weka compatible toolkit.
 
 ### JavaScript
 
@@ -224,6 +247,9 @@ A collection of resources for working with sequential and time series data
 ## 💬 Communities
 
 - [r/TimeSeries](https://www.reddit.com/r/TimeSeries) Subreddit for graphs of time series and predictions based on time series.
+- [sktime gitter](https://gitter.im/sktime/community)
+- [microprediction slack](https://github.com/microprediction) invite. 
+- [pycaret slack](https://github.com/pycaret/pycaret/discussions/1003) see time-series chat. 
 
 ## 🗃 Organizations
 
@@ -239,3 +265,5 @@ A collection of resources for working with sequential and time series data
 - [MaxBenChrist/awesome_time_series_in_python](https://github.com/MaxBenChrist/awesome_time_series_in_python)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python)
 - [xephonhq/awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database) A curated list of awesome time series databases, benchmarks and papers.
+- [awesome python benchmarks](https://github.com/microprediction/awesome-python-benchmarks) Timeseries benchmarking mostly.
+- [Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series) List of state of the art papers focus on deep learning and resources, code and experiments using deep learning for time series forecasting.
