@@ -117,7 +117,7 @@ A collection of resources for working with sequential and time series data
 - [atlair](https://github.com/altair-viz/altair) Declarative statistical visualization library for Python.
 - [matplotlib](https://github.com/matplotlib/matplotlib) A comprehensive library for creating static, animated, and interactive visualizations in Python.
 - [plotly](https://github.com/plotly/plotly.py) A graphing library makes interactive, publication-quality graphs.
-- [seaborn](https://seaborn.pydata.org/) A data visualization library based on [matplotlib](https://matplotlib.org) that provides a high-level interface for drawing attractive and informative statistical graphics.
+- [seaborn](https://github.com/mwaskom/seaborn) A data visualization library based on [matplotlib](https://matplotlib.org) that provides a high-level interface for drawing attractive and informative statistical graphics.
 
 #### Benchmarking & Contests
 
