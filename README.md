@@ -47,6 +47,7 @@ A collection of resources for working with sequential and time series data
 - [gordo](https://github.com/equinor/gordo) Building thousands of models with time series data to monitor systems.
 - [greykite](https://github.com/linkedin/greykite) A flexible, intuitive and fast forecasting library from LinkedIn.
 - [hmmlearn](https://github.com/hmmlearn/hmmlearn) Hidden Markov Models in Python, with `scikit-learn` like API.
+- [HyperTS](https://github.com/DataCanvasIO/HyperTS) A Full-Pipeline Automated Time Series (AutoTS) Analysis Toolkit.
 - [kats](https://github.com/facebookresearch/kats) A kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
 - [lifelines](https://github.com/CamDavidsonPilon/lifelines) Survival analysis in Python.
 - [luminaire](https://github.com/zillow/luminaire) A python package that provides ML driven solutions for monitoring time series data. Luminaire provides several anomaly detection and forecasting capabilities that incorporate correlational and seasonal patterns in the data over time as well as uncontrollable variations.
