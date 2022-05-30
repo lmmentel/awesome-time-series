@@ -172,6 +172,7 @@ A collection of resources for working with sequential and time series data
 - [opendTSDB](http://opentsdb.net/) The Scalable Time Series Database.
 - [prometheus](https://prometheus.io/) An open-source systems monitoring and alerting toolkit originally built at [SoundCloud](https://soundcloud.com).
 - [QuestDB](https://github.com/questdb/questdb) An open source SQL database designed to process time series data, faster.
+- [SiriDB](https://siridb.com/) An highly-scalable, robust and super fast time series database.
 - [TimeScaleDB](https://www.timescale.com/) TimescaleDB is the leading open-source relational database with support for time-series data.
 - [TDengine](https://tdengine.com) An open-source time-series database with high-performance, scalability and SQL support.
 
