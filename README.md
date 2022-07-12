@@ -64,6 +64,7 @@ A collection of resources for working with sequential and time series data
 - [PyDLM](https://github.com/wwrechard/pydlm) Bayesian time series modeling package. Based on the Bayesian dynamic linear model (Harrison and West, 1999) and optimized for fast model fitting and inference.
 - [PyFlux](https://github.com/RJT1990/pyflux) Open source time series library for Python.
 - [Pyod](https://github.com/yzhao062/Pyod) A Python toolbox for scalable outlier detection (Anomaly Detection).
+- [pyspi](https://github.com/olivercliff/pyspi) Comparative analysis of pairwise interactions in multivariate time series.
 - [scalecast](https://github.com/mikekeith52/scalecast) A scaleable forecasting approach for Timeseries in Python
 - [scikit-hts](https://github.com/carlomazzaferro/scikit-hts) Hierarchical Time Series Forecasting with a familiar API.
 - [seglearn](https://github.com/dmbee/seglearn) A python package for machine learning time series or sequences.
