@@ -46,6 +46,7 @@ A collection of resources for working with sequential and time series data
 - [gluon-ts](https://github.com/awslabs/gluon-ts) Probabilistic time series modeling in Python from AWS.
 - [gordo](https://github.com/equinor/gordo) Building thousands of models with time series data to monitor systems.
 - [greykite](https://github.com/linkedin/greykite) A flexible, intuitive and fast forecasting library from LinkedIn.
+- [hctsa](https://github.com/benfulcher/hctsa) Highly comparative time-series analysis.
 - [hmmlearn](https://github.com/hmmlearn/hmmlearn) Hidden Markov Models in Python, with `scikit-learn` like API.
 - [HyperTS](https://github.com/DataCanvasIO/HyperTS) A Full-Pipeline Automated Time Series (AutoTS) Analysis Toolkit.
 - [kats](https://github.com/facebookresearch/kats) A kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.
