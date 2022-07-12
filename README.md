@@ -18,9 +18,10 @@ A collection of resources for working with sequential and time series data
     - [Spark](#spark)
   - [🗄️ Databases](#️-databases)
     - [Managed database services](#managed-database-services)
-  - [✏️ Annotation and Labeling](#️-annotation-and-labeling)
+  - [✏️ Annotation and Labeling](#-annotation-and-labeling)
   - [📝 Papers with code](#-papers-with-code)
   - [💻 Repos with Models](#-repos-with-models)
+  - [⚙️ Web Applications](#-web-applications)
   - [📚 Books](#-books)
   - [🎓 Courses](#-courses)
   - [💬 Communities](#-communities)
@@ -228,6 +229,10 @@ A collection of resources for working with sequential and time series data
 - [TimeSeries](https://github.com/zhykoties/TimeSeries) Implementation of deep learning models for time series in PyTorch.
 - [UCR_Time_Series_Classification_Deep_Learning_Baseline](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline) Fully Convlutional Neural Networks for state-of-the-art time series classification.
 - [wtte-rnn](https://github.com/ragulpr/wtte-rnn) WTTE-RNN a framework for churn and time to event prediction.
+
+## ⚙️ Web Applications
+
+- [CompEngine](https://www.comp-engine.org/)  A self-organizing database of time-series data, that allows you to upload time-series data and interactively visualize similar data that have been measured by others.
 
 ## 📚 Books
 
