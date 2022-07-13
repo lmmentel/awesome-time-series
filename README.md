@@ -284,3 +284,4 @@ A collection of resources for working with sequential and time series data
 - [xephonhq/awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database) A curated list of awesome time series databases, benchmarks and papers.
 - [awesome python benchmarks](https://github.com/microprediction/awesome-python-benchmarks) Timeseries benchmarking mostly.
 - [Alro10/deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series) List of state of the art papers focus on deep learning and resources, code and experiments using deep learning for time series forecasting.
+- [hctsa - time series resources](https://github.com/benfulcher/hctsa/wiki/Related-time-series-resources) A collection of good resources for time-series analysis (including in other programming languages like python and R).
