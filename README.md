@@ -141,6 +141,7 @@ A collection of resources for working with sequential and time series data
 - [feasts](https://github.com/tidyverts/feasts) A [tidyverts](https://github.com/tidyverts) package for feature extraction and statistics for time series.
 - [modeltime](https://github.com/business-science/modeltime) Modeltime unlocks time series forecast models and machine learning in one framework.
 - [Rcatch22](https://github.com/hendersontrent/Rcatch22) R package for calculation of 22 CAnonical Time-series CHaracteristics.
+- [theft](https://github.com/hendersontrent/theft) R package for Tools for Handling Extraction of Features from Time series.
 - [timetk](https://github.com/business-science/timetk) A `tidyverse` toolkit to visualize, wrangle, and transform time series data.
 - [tsibble](https://github.com/tidyverts/tsibble) A [tidyverts](https://github.com/tidyverts) package with tidy temporal data frames and tools.
 
