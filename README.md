@@ -264,6 +264,10 @@ A collection of resources for working with sequential and time series data
 - [Kaggle - Time Series](https://www.kaggle.com/learn/time-series)
 - [Udacity - Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
 
+## Tutorials
+
+- [Time-related feature engineering - scikit learn](https://scikit-learn.org/stable/auto_examples/applications/plot_cyclical_feature_engineering.html)
+
 ## 💬 Communities
 
 - [r/TimeSeries](https://www.reddit.com/r/TimeSeries) Subreddit for graphs of time series and predictions based on time series.
