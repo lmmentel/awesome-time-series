@@ -245,6 +245,7 @@ A collection of resources for working with sequential and time series data
 ## 📚 Books
 
 - [Bayesian Time Series Models ](https://www.cambridge.org/pl/academic/subjects/computer-science/pattern-recognition-and-machine-learning/bayesian-time-series-models?format=HB) 💲 _David Barber, A. Taylan Cemgil, Silvia Chiappa_, Cambridge Academic Press 2011
+- [Codeless Time Series Analysis with KNIME](https://www.knime.com/codeless-time-series-analysis-with-knime) 💲 _Corey Weisinger, Maarit Widmann, and Daniele Tonini_, Packt Publishing 2022
 - [Forecasting principles and practice (3rd ed)](https://otexts.com/fpp3/) 🆓 _Rob J Hyndman and George Athanasopoulos_ 2021
 - [Practical Time Series Analysis](https://www.packtpub.com/product/practical-time-series-analysis/9781788290227) 💲 _Avishek Pal, PKS Prakash_, Packt 2017
   - [repo with code](https://github.com/PacktPublishing/Practical-Time-Series-Analysis)
