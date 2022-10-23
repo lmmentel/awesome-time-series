@@ -64,6 +64,7 @@ A collection of resources for working with sequential and time series data
 - [PyDLM](https://github.com/wwrechard/pydlm) Bayesian time series modeling package. Based on the Bayesian dynamic linear model (Harrison and West, 1999) and optimized for fast model fitting and inference.
 - [PyFlux](https://github.com/RJT1990/pyflux) Open source time series library for Python.
 - [Pyod](https://github.com/yzhao062/Pyod) A Python toolbox for scalable outlier detection (Anomaly Detection).
+- [PyPOTS](https://github.com/WenjieDu/PyPOTS) A python toolbox/library for data mining on partially-observed time series (A.K.A. irregularly-sampled time series), supporting tasks of forecasting/imputation/classification/clustering on incomplete multivariate time series with missing values.
 - [pyspi](https://github.com/olivercliff/pyspi) Comparative analysis of pairwise interactions in multivariate time series.
 - [scalecast](https://github.com/mikekeith52/scalecast) A scalable forecasting approach for Timeseries in Python
 - [scikit-hts](https://github.com/carlomazzaferro/scikit-hts) Hierarchical Time Series Forecasting with a familiar API.
@@ -80,6 +81,7 @@ A collection of resources for working with sequential and time series data
 - [TimeSeers](https://github.com/MBrouns/timeseers) A hierarchical Bayesian Time Series model based on Prophet, written in PyMC3.
 - [Time Series Generator](https://pypi.org/project/time-series-generator/) Provides a solution for the direct multi-step outputs limitation in Keras.
 - [torchtime](https://github.com/philipdarke/torchtime) Time series data sets for PyTorch.
+- [TSDB](https://github.com/WenjieDu/TSDB) Time-Series DataBase: A Python toolbox helping load time-series datasets easily.
 - [tsai](https://github.com/timeseriesAI/tsai) State-of-the-art Deep Learning library for Time Series and Sequences.
 - [tsflex](https://github.com/predict-idlab/tsflex) Flexible time series feature extraction & processing.
 - [tslearn](https://github.com/tslearn-team/tslearn) The machine learning toolkit for time series analysis in Python.
