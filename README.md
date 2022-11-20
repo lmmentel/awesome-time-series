@@ -144,6 +144,7 @@ A collection of resources for working with sequential and time series data
 - [fable](https://github.com/tidyverts/fable) A [tidyverts](https://github.com/tidyverts) package for tidy time series forecasting.
 - [fasster](https://github.com/tidyverts/fasster) A [tidyverts](https://github.com/tidyverts) package for forecasting with additive switching of seasonality, trend and exogenous regressors.
 - [feasts](https://github.com/tidyverts/feasts) A [tidyverts](https://github.com/tidyverts) package for feature extraction and statistics for time series.
+- [fpop](https://cran.r-project.org/package=fpop) Segmentation using Optimal Partitioning and Function Pruning.
 - [modeltime](https://github.com/business-science/modeltime) Modeltime unlocks time series forecast models and machine learning in one framework.
 - [Rcatch22](https://github.com/hendersontrent/Rcatch22) R package for calculation of 22 CAnonical Time-series CHaracteristics.
 - [theft](https://github.com/hendersontrent/theft) R package for Tools for Handling Extraction of Features from Time series.
