@@ -149,6 +149,7 @@ A collection of resources for working with sequential and time series data
 - [feasts](https://github.com/tidyverts/feasts) A [tidyverts](https://github.com/tidyverts) package for feature extraction and statistics for time series.
 - [fpop](https://cran.r-project.org/package=fpop) Segmentation using Optimal Partitioning and Function Pruning.
 - [modeltime](https://github.com/business-science/modeltime) Modeltime unlocks time series forecast models and machine learning in one framework.
+- [penaltyLearning](https://github.com/tdhock/penaltyLearning) Algorithms for supervised learning of penalty functions for change detection.
 - [Rcatch22](https://github.com/hendersontrent/Rcatch22) R package for calculation of 22 CAnonical Time-series CHaracteristics.
 - [theft](https://github.com/hendersontrent/theft) R package for Tools for Handling Extraction of Features from Time series.
 - [timetk](https://github.com/business-science/timetk) A `tidyverse` toolkit to visualize, wrangle, and transform time series data.
