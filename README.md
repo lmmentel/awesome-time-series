@@ -140,6 +140,7 @@ A collection of resources for working with sequential and time series data
 
 - [CausalImpact](https://google.github.io/CausalImpact/CausalImpact.html) An R package for causal inference using Bayesian structural time-series models.
 - [changepoint](https://github.com/rkillick/changepoint) Implements various mainstream and specialised changepoint methods for finding single and multiple changepoints within data.
+- [EnvCpt](https://github.com/rkillick/EnvCpt) Detection of Structural Changes in Climate and Environment Time Series.
 - [fable](https://github.com/tidyverts/fable) A [tidyverts](https://github.com/tidyverts) package for tidy time series forecasting.
 - [fasster](https://github.com/tidyverts/fasster) A [tidyverts](https://github.com/tidyverts) package for forecasting with additive switching of seasonality, trend and exogenous regressors.
 - [feasts](https://github.com/tidyverts/feasts) A [tidyverts](https://github.com/tidyverts) package for feature extraction and statistics for time series.
