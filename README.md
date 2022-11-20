@@ -138,6 +138,7 @@ A collection of resources for working with sequential and time series data
 
 ### R
 
+- [bcp](https://cran.r-project.org/package=bcp) Bayesian Analysis of Change Point Problems.
 - [CausalImpact](https://google.github.io/CausalImpact/CausalImpact.html) An R package for causal inference using Bayesian structural time-series models.
 - [changepoint](https://github.com/rkillick/changepoint) Implements various mainstream and specialised changepoint methods for finding single and multiple changepoints within data.
 - [EnvCpt](https://github.com/rkillick/EnvCpt) Detection of Structural Changes in Climate and Environment Time Series.
