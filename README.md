@@ -112,6 +112,7 @@ A collection of resources for working with sequential and time series data
 
 - [bayesian_changepoint_detection](https://github.com/hildensia/bayesian_changepoint_detection) Methods to get the probability of a change point in a time series. Both online and offline methods are available.
 - [changepy](https://github.com/ruipgil/changepy) Change point detection in time series in pure python.
+- [RBEAST](https://github.com/zhaokg/Rbeast) Bayesian Change-Point Detection and Time Series Decomposition.
 - [ruptures](https://github.com/deepcharles/ruptures) A Python library for off-line change point detection. This package provides methods for the analysis and segmentation of non-stationary signals.
 - [TCPDBench](https://github.com/alan-turing-institute/TCPDBench) Turing Change Point Detection Benchmark, a benchmark evaluation of change point detection algorithms.
 
