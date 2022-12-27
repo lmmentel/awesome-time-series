@@ -104,7 +104,7 @@ A collection of resources for working with sequential and time series data
 
 #### Feature Engineering
 
-- [AntroPy](https://github.com/raphaelvallat/antropy) AntroPy: entropy and complexity of (EEG) time-series in Python 
+- [AntroPy](https://github.com/raphaelvallat/antropy) Time-efficient algorithms for computing the entropy and complexity of time-series.
 - [featuretools](https://github.com/alteryx/featuretools) An open source python library for automated feature engineering.
 - [tsfel](https://github.com/fraunhoferportugal/tsfel) An intuitive library to extract features from time series.
 - [tsflex](https://github.com/predict-idlab/tsflex) Flexible & efficient time series feature extraction & processing package.
