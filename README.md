@@ -124,6 +124,7 @@ A collection of resources for working with sequential and time series data
 - [deltapy](https://github.com/firmai/deltapy) Tabular Data Augmentation & Feature Engineering.
 - [tsaug](https://github.com/arundo/tsaug) A Python package for time series augmentation.
 - [time_series_augmentation](https://github.com/uchidalab/time_series_augmentation) An example of time series augmentation methods with Keras.
+- [DeepEcho](https://github.com/sdv-dev/DeepEcho) Synthetic Data Generation for mixed-type, multivariate time series.
 
 #### Visualization
 
