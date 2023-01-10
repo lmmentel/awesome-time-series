@@ -161,6 +161,7 @@ A collection of resources for working with sequential and time series data
 - [theft](https://github.com/hendersontrent/theft) R package for Tools for Handling Extraction of Features from Time series.
 - [timetk](https://github.com/business-science/timetk) A `tidyverse` toolkit to visualize, wrangle, and transform time series data.
 - [tsibble](https://github.com/tidyverts/tsibble) A [tidyverts](https://github.com/tidyverts) package with tidy temporal data frames and tools.
+- [tsrepr](https://github.com/PetoLau/TSrepr) TSrepr: R package for time series representations.
 
 ### Java
 
