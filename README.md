@@ -85,6 +85,7 @@ A collection of resources for working with sequential and time series data
 - [torchtime](https://github.com/philipdarke/torchtime) Time series data sets for PyTorch.
 - [TSDB](https://github.com/WenjieDu/TSDB) Time-Series DataBase: A Python toolbox helping load time-series datasets easily.
 - [tsai](https://github.com/timeseriesAI/tsai) State-of-the-art Deep Learning library for Time Series and Sequences.
+- [tscv](https://github.com/WenjieZ/TSCV) Time Series Cross-Validation - an extension for scikit-learn.
 - [tsflex](https://github.com/predict-idlab/tsflex) Flexible time series feature extraction & processing.
 - [tslearn](https://github.com/tslearn-team/tslearn) The machine learning toolkit for time series analysis in Python.
 - [tsmoothie](https://github.com/cerlymarco/tsmoothie) A python library for time-series smoothing and outlier detection in a vectorized way.
