@@ -1,6 +1,5 @@
 # 📈 Time series resources 📉
 
-1
 
 A collection of resources for working with sequential and time series data
 
