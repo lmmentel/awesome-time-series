@@ -1,5 +1,6 @@
 # 📈 Time series resources 📉
 
+
 A collection of resources for working with sequential and time series data
 
 - [📈 Time series resources 📉](#-time-series-resources-)
@@ -224,6 +225,10 @@ A collection of resources for working with sequential and time series data
 - **TS2Vec: Towards Universal Representation of Time Series**, _Zhihan Yue, Yujing Wang, Juanyong Duan, Tianmeng Yang, Congrui Huang, Yunhai Tong, Bixiong Xu_, 2022
   - [code](https://github.com/yuezhihan/ts2vec)
   - [paper](https://arxiv.org/abs/2106.10466)
+
+- **Conformal prediction interval for dynamic time-series**, _Chen Xu, Yao Xie_, International Conference on Machine Learning 2021 (long presentation)
+  - [code](https://github.com/hamrel-cxu/EnbPI)
+  - [paper](https://proceedings.mlr.press/v139/xu21h)
 
 - **Deep learning for time series classification: a review**, _H. I. Fawaz, G. Forestier, J. Weber, L. Idoumghar, P-A. Muller_, Data Mining and Knowledge Discovery 2019
   - [code](https://github.com/hfawaz/dl-4-tsc)
