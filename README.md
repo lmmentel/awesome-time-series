@@ -211,6 +211,7 @@ A collection of resources for working with sequential and time series data
 - [Azure time series insights](https://azure.microsoft.com/en-us/services/time-series-insights/) Visualize IoT data in real time.
 - [InfluxDB Cloud](https://www.influxdata.com/products/influxdb-cloud/) It’s a fast, elastic, serverless real-time monitoring platform, dashboarding engine, analytics service and event and metrics processor.
 - [TimeScaleDB Cloud](https://www.timescale.com/products/#Timescale-Cloud) Managed TimeScaleDB service.
+- [TDengine Cloud](https://cloud.tdengine.com/) Serverless, fully managed cloud service for time series data
 
 ## ✏️ Annotation and Labeling
 
