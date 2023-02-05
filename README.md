@@ -39,7 +39,6 @@ A collection of resources for working with sequential and time series data
 - [alibi-detect](https://github.com/SeldonIO/alibi-detect) Algorithms for outlier, adversarial and drift detection.
 - [AutoTS](https://github.com/winedarksea/AutoTS) A time series package for Python designed for rapidly deploying high-accuracy forecasts at scale.
 - [Auto_TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows.
-- [catch22](https://github.com/chlubba/catch22) CAnonical Time-series CHaracteristics, 22 high-performing time-series features in C, Python nad Julia.
 - [cesium](https://github.com/cesium-ml/cesium) Open-Source Platform for Time Series Inference.
 - [darts](https://github.com/unit8co/darts) Time Series Made Easy in Python. A python library for easy manipulation and forecasting of time series.
 - [deeptime](https://github.com/deeptime-ml/deeptime) Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
@@ -109,6 +108,7 @@ A collection of resources for working with sequential and time series data
 #### Feature Engineering
 
 - [AntroPy](https://github.com/raphaelvallat/antropy) Time-efficient algorithms for computing the entropy and complexity of time-series.
+- [catch22](https://github.com/chlubba/catch22) CAnonical Time-series CHaracteristics, 22 high-performing time-series features in C, Python and Julia.
 - [featuretools](https://github.com/alteryx/featuretools) An open source python library for automated feature engineering.
 - [tsfeatures](https://github.com/Nixtla/tsfeatures) Calculates various features from time series data. Python implementation of the R package tsfeatures.
 - [tsfel](https://github.com/fraunhoferportugal/tsfel) An intuitive library to extract features from time series.
