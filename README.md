@@ -65,6 +65,7 @@ A collection of resources for working with sequential and time series data
 - [prophet](https://github.com/facebook/prophet) Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [PyDLM](https://github.com/wwrechard/pydlm) Bayesian time series modeling package. Based on the Bayesian dynamic linear model (Harrison and West, 1999) and optimized for fast model fitting and inference.
 - [PyFlux](https://github.com/RJT1990/pyflux) Open source time series library for Python.
+- [pyFTS](https://github.com/PYFTS/pyFTS) An open source library for Fuzzy Time Series in Python.
 - [Pyod](https://github.com/yzhao062/Pyod) A Python toolbox for scalable outlier detection (Anomaly Detection).
 - [PyPOTS](https://github.com/WenjieDu/PyPOTS) A python toolbox/library for data mining on partially-observed time series (A.K.A. irregularly-sampled time series), supporting tasks of forecasting/imputation/classification/clustering on incomplete multivariate time series with missing values.
 - [pyspi](https://github.com/olivercliff/pyspi) Comparative analysis of pairwise interactions in multivariate time series.
