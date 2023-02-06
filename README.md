@@ -91,6 +91,7 @@ A collection of resources for working with sequential and time series data
 - [tscv](https://github.com/WenjieZ/TSCV) Time Series Cross-Validation - an extension for scikit-learn.
 - [tsflex](https://github.com/predict-idlab/tsflex) Flexible time series feature extraction & processing.
 - [tslearn](https://github.com/tslearn-team/tslearn) The machine learning toolkit for time series analysis in Python.
+- [tslumen](https://github.com/hsbc/tslumen) A library for Time Series Exploratory Data Analysis (EDA). 
 - [tsmoothie](https://github.com/cerlymarco/tsmoothie) A python library for time-series smoothing and outlier detection in a vectorized way.
 
 #### Date and Time
