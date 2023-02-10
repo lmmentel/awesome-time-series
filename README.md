@@ -1,4 +1,4 @@
-# 📈 Time series resources 📉
+﻿# 📈 Time series resources 📉
 
 
 A collection of resources for working with sequential and time series data
@@ -260,6 +260,10 @@ A collection of resources for working with sequential and time series data
 - **Learning to Diagnose with LSTM Recurrent Neural Networks**, _Zachary C. Lipton, David C. Kale, Charles Elkan, Randall Wetzel_, arXiv:1511.03677, 2015.
 	- [paper](https://arxiv.org/abs/1511.03677)
 	- [code](https://github.com/aqibsaeed/Multilabel-timeseries-classification-with-LSTM)
+
+- **Coherence-based Label Propagation over Time Series for Accelerated Active Learning**, _Yooju Shin, Susik Yoon, Sundong Kim, Hwanjun Song, Jae-Gil Lee, Byung Suk Lee_, ICLR, 2022.
+	- [paper](https://openreview.net/forum?id=gjNcH0hj0LM)
+	- [code](https://github.com/kaist-dmlab/TCLP)
 
 ## 💻 Repos with Models
 
