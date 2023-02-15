@@ -165,6 +165,7 @@ A collection of resources for working with sequential and time series data
 - [modeltime](https://github.com/business-science/modeltime) Modeltime unlocks time series forecast models and machine learning in one framework.
 - [penaltyLearning](https://github.com/tdhock/penaltyLearning) Algorithms for supervised learning of penalty functions for change detection.
 - [Rcatch22](https://github.com/hendersontrent/Rcatch22) R package for calculation of 22 CAnonical Time-series CHaracteristics.
+- [smooth](https://github.com/config-i1/smooth) The set of smoothing functions used for time series analysis and in forecasting. 
 - [theft](https://github.com/hendersontrent/theft) R package for Tools for Handling Extraction of Features from Time series.
 - [timetk](https://github.com/business-science/timetk) A `tidyverse` toolkit to visualize, wrangle, and transform time series data.
 - [tsibble](https://github.com/tidyverts/tsibble) A [tidyverts](https://github.com/tidyverts) package with tidy temporal data frames and tools.
