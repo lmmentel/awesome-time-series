@@ -63,6 +63,7 @@ A collection of resources for working with sequential and time series data
 - [pastas](https://github.com/pastas/pastas) An open-source Python framework for the analysis of hydrological time series.
 - [pmdarima](https://github.com/alkaline-ml/pmdarima) A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's `auto.arima` function.
 - [prophet](https://github.com/facebook/prophet) Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+- [pyaf](https://github.com/antoinecarme/pyaf) PyAF is an Open Source Python library for Automatic Time Series Forecasting built on top of popular pydata modules.
 - [PyDLM](https://github.com/wwrechard/pydlm) Bayesian time series modeling package. Based on the Bayesian dynamic linear model (Harrison and West, 1999) and optimized for fast model fitting and inference.
 - [PyFlux](https://github.com/RJT1990/pyflux) Open source time series library for Python.
 - [pyFTS](https://github.com/PYFTS/pyFTS) An open source library for Fuzzy Time Series in Python.
