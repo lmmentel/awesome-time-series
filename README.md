@@ -36,6 +36,7 @@ A collection of resources for working with sequential and time series data
 ### Python
 
 - [adtk](https://github.com/arundo/adtk) A Python toolkit for rule-based/unsupervised anomaly detection in time series.
+- [aeon](https://github.com/aeon-toolkit/aeon) A unified framework for machine learning with time series.
 - [alibi-detect](https://github.com/SeldonIO/alibi-detect) Algorithms for outlier, adversarial and drift detection.
 - [AutoTS](https://github.com/winedarksea/AutoTS) A time series package for Python designed for rapidly deploying high-accuracy forecasts at scale.
 - [Auto_TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows.
