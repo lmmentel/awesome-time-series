@@ -46,6 +46,7 @@ A collection of resources for working with sequential and time series data
 - [dtw-python](https://github.com/DynamicTimeWarping/dtw-python) Python port of R's Comprehensive Dynamic Time Warp algorithm package.
 - [etna](https://github.com/tinkoff-ai/etna) ETNA is an easy-to-use time series forecasting framework.
 - [fost](https://github.com/microsoft/FOST) Forecasting open source tool aims to provide an easy-use tool for spatial-temporal forecasting.
+- [functime](https://github.com/descendant-ai/functime) Time-series machine learning and embeddings at scale.
 - [gluon-ts](https://github.com/awslabs/gluon-ts) Probabilistic time series modeling in Python from AWS.
 - [gordo](https://github.com/equinor/gordo) Building thousands of models with time series data to monitor systems.
 - [greykite](https://github.com/linkedin/greykite) A flexible, intuitive and fast forecasting library from LinkedIn.
