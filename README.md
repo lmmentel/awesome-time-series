@@ -90,6 +90,7 @@ A collection of resources for working with sequential and time series data
 - [TimeSynth](https://github.com/TimeSynth/TimeSynth) A multipurpose library for synthetic time series in Python.
 - [TimeSeers](https://github.com/MBrouns/timeseers) A hierarchical Bayesian Time Series model based on Prophet, written in PyMC3.
 - [Time Series Generator](https://pypi.org/project/time-series-generator/) Provides a solution for the direct multi-step outputs limitation in Keras.
+- [tods](https://github.com/datamllab/tods) An Automated Time-series Outlier Detection System.
 - [torchtime](https://github.com/philipdarke/torchtime) Time series data sets for PyTorch.
 - [TSDB](https://github.com/WenjieDu/TSDB) Time-Series DataBase: A Python toolbox helping load time-series datasets easily.
 - [tsai](https://github.com/timeseriesAI/tsai) State-of-the-art Deep Learning library for Time Series and Sequences.
