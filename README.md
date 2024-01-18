@@ -133,12 +133,13 @@ A collection of resources for working with sequential and time series data
 - [ruptures](https://github.com/deepcharles/ruptures) A Python library for off-line change point detection. This package provides methods for the analysis and segmentation of non-stationary signals.
 - [TCPDBench](https://github.com/alan-turing-institute/TCPDBench) Turing Change Point Detection Benchmark, a benchmark evaluation of change point detection algorithms.
 
-#### Time Series Augmentation
+#### Time Series Generation and Augmentation
 
 - [deltapy](https://github.com/firmai/deltapy) Tabular Data Augmentation & Feature Engineering.
 - [tsaug](https://github.com/arundo/tsaug) A Python package for time series augmentation.
 - [time_series_augmentation](https://github.com/uchidalab/time_series_augmentation) An example of time series augmentation methods with Keras.
 - [DeepEcho](https://github.com/sdv-dev/DeepEcho) Synthetic Data Generation for mixed-type, multivariate time series.
+- [tsgm](https://github.com/alexandervnikitin/tsgm) Synthetic time series generation and time series augmentations.
 
 #### Visualization
 
