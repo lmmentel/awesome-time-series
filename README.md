@@ -87,7 +87,6 @@ A collection of resources for working with sequential and time series data
 - [TICC](https://github.com/davidhallac/TICC) A python solver for efficiently segmenting and clustering a multivariate time series.
 - [tick](https://github.com/X-DataInitiative/tick) Module for statistical learning, with a particular emphasis on time-dependent modelling.
 - [timemachines](https://github.com/microprediction/timemachines) Continuously evaluated, functional, incremental, time-series forecasting.
-- [TimeSynth](https://github.com/TimeSynth/TimeSynth) A multipurpose library for synthetic time series in Python.
 - [TimeSeers](https://github.com/MBrouns/timeseers) A hierarchical Bayesian Time Series model based on Prophet, written in PyMC3.
 - [Time Series Generator](https://pypi.org/project/time-series-generator/) Provides a solution for the direct multi-step outputs limitation in Keras.
 - [tods](https://github.com/datamllab/tods) An Automated Time-series Outlier Detection System.
@@ -135,10 +134,11 @@ A collection of resources for working with sequential and time series data
 
 #### Time Series Generation and Augmentation
 
-- [deltapy](https://github.com/firmai/deltapy) Tabular Data Augmentation & Feature Engineering.
-- [tsaug](https://github.com/arundo/tsaug) A Python package for time series augmentation.
-- [time_series_augmentation](https://github.com/uchidalab/time_series_augmentation) An example of time series augmentation methods with Keras.
 - [DeepEcho](https://github.com/sdv-dev/DeepEcho) Synthetic Data Generation for mixed-type, multivariate time series.
+- [deltapy](https://github.com/firmai/deltapy) Tabular Data Augmentation & Feature Engineering.
+- [time_series_augmentation](https://github.com/uchidalab/time_series_augmentation) An example of time series augmentation methods with Keras.
+- [TimeSynth](https://github.com/TimeSynth/TimeSynth) A multipurpose library for synthetic time series in Python.
+- [tsaug](https://github.com/arundo/tsaug) A Python package for time series augmentation.
 - [tsgm](https://github.com/alexandervnikitin/tsgm) Synthetic time series generation and time series augmentations.
 
 #### Visualization
