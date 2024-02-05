@@ -1,5 +1,7 @@
-﻿# 📈 Time series resources 📉
-
+<div align="center">
+    <h1>📈 Awesome Time Series 📉</h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+</div>
 
 A collection of resources for working with sequential and time series data
 
