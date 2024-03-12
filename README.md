@@ -121,6 +121,7 @@ A collection of resources for working with sequential and time series data
 - [AntroPy](https://github.com/raphaelvallat/antropy) Time-efficient algorithms for computing the entropy and complexity of time-series.
 - [catch22](https://github.com/chlubba/catch22) CAnonical Time-series CHaracteristics, 22 high-performing time-series features in C, Python and Julia.
 - [featuretools](https://github.com/alteryx/featuretools) An open source python library for automated feature engineering.
+- [temporian](https://github.com/google/temporian) Temporian is an open-source Python library for preprocessing ⚡ and feature engineering 🛠 temporal data 📈 for machine learning applications 🤖
 - [tsfeatures](https://github.com/Nixtla/tsfeatures) Calculates various features from time series data. Python implementation of the R package tsfeatures.
 - [tsfel](https://github.com/fraunhoferportugal/tsfel) An intuitive library to extract features from time series.
 - [tsflex](https://github.com/predict-idlab/tsflex) Flexible & efficient time series feature extraction & processing package.
