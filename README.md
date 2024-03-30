@@ -286,8 +286,9 @@ A collection of resources for working with sequential and time series data
 - [UCR_Time_Series_Classification_Deep_Learning_Baseline](https://github.com/cauchyturing/UCR_Time_Series_Classification_Deep_Learning_Baseline) Fully Convlutional Neural Networks for state-of-the-art time series classification.
 - [wtte-rnn](https://github.com/ragulpr/wtte-rnn) WTTE-RNN a framework for churn and time to event prediction.
 
-## ⚙️ Web Applications
+## ⚙️ Applications
 
+- [binjr](https://github.com/binjr/binjr) A Time Series Data Browser.
 - [CompEngine](https://www.comp-engine.org/)  A self-organizing database of time-series data, that allows you to upload time-series data and interactively visualize similar data that have been measured by others.
 
 ## 📚 Books
