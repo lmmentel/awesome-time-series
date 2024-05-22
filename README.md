@@ -90,6 +90,7 @@ A collection of resources for working with sequential and time series data
 - [tick](https://github.com/X-DataInitiative/tick) Module for statistical learning, with a particular emphasis on time-dependent modelling.
 - [timemachines](https://github.com/microprediction/timemachines) Continuously evaluated, functional, incremental, time-series forecasting.
 - [TimeSeers](https://github.com/MBrouns/timeseers) A hierarchical Bayesian Time Series model based on Prophet, written in PyMC3.
+- [TimesFM](https://github.com/google-research/timesfm) TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 - [Time Series Generator](https://pypi.org/project/time-series-generator/) Provides a solution for the direct multi-step outputs limitation in Keras.
 - [tods](https://github.com/datamllab/tods) An Automated Time-series Outlier Detection System.
 - [torchtime](https://github.com/philipdarke/torchtime) Time series data sets for PyTorch.
