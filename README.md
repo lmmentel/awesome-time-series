@@ -241,6 +241,9 @@ A collection of resources for working with sequential and time series data
 
 ## 📝 Papers with code
 
+- **Dive into Time-Series Anomaly Detection: A Decade Review**, _Paul Boniol, Qinghua Liu, Mingyi Huang, Themis Palpanas, John Paparrizos_, 2024
+  - [arXiv](https://arxiv.org/abs/2412.20512) 
+
 - **TS2Vec: Towards Universal Representation of Time Series**, _Zhihan Yue, Yujing Wang, Juanyong Duan, Tianmeng Yang, Congrui Huang, Yunhai Tong, Bixiong Xu_, 2022
   - [code](https://github.com/yuezhihan/ts2vec)
   - [paper](https://arxiv.org/abs/2106.10466)
