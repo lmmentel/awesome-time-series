@@ -88,6 +88,7 @@ A collection of resources for working with sequential and time series data
 - [stumpy](https://github.com/TDAmeritrade/stumpy) A powerful and scalable Python library that can be used for a variety of time series data mining tasks.
 - [TICC](https://github.com/davidhallac/TICC) A python solver for efficiently segmenting and clustering a multivariate time series.
 - [tick](https://github.com/X-DataInitiative/tick) Module for statistical learning, with a particular emphasis on time-dependent modelling.
+- [TimeCopilot](https://github.com/AzulGarza/timecopilot) TimeCopilot is an open-source forecasting agent that combines the power of large language models with state-of-the-art time series foundation models.
 - [timemachines](https://github.com/microprediction/timemachines) Continuously evaluated, functional, incremental, time-series forecasting.
 - [TimeSeers](https://github.com/MBrouns/timeseers) A hierarchical Bayesian Time Series model based on Prophet, written in PyMC3.
 - [TimesFM](https://github.com/google-research/timesfm) TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
