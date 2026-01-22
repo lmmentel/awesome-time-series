@@ -308,6 +308,7 @@ A collection of resources for working with sequential and time series data
 - [Machine Learning for Time-Series with Python](https://www.packtpub.com/product/machine-learning-for-time-series-with-python/9781801819626) 💲 _Ben Auffarth_, Packt Publishing 2021
   - [repo with code](https://github.com/PacktPublishing/Machine-Learning-for-Time-Series-with-Python)
 - [Time Series Analysis Handbook](https://phdinds-aim.github.io/time_series_handbook/Preface/Preface.html)  🆓 _Students of PhD in Data Science Batch 2023 at the Asian Institute of Management_.
+- [Time Series Forecasting Using Foundation Models](https://www.manning.com/books/time-series-forecasting-using-foundation-models) 💲 _Marco Peixeiro_, Manning Publications 2025
 - [Visualization of Time-Oriented Data](https://amzn.to/3GITSpD) 💲 _Wolfgang Aigner, Silvia Miksch, Heidrun Schumann, Christian Tominski_, Springer-Verlag 2011
 
 ## 🎓 Courses
