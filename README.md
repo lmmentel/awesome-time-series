@@ -161,6 +161,7 @@ A collection of resources for working with sequential and time series data
 - [m6](https://github.com/microprediction/m6) Provides utilities for the [M6-Competition](https://mofc.unic.ac.cy/the-m6-competition/)
 - Microprediction time-series [competitions](https://www.microprediction.com/competitions)
 - [SKAB](https://github.com/waico/SKAB) Skoltech Anomaly Benchmark. Time-series data for evaluating Anomaly Detection algorithms.
+- [TSGap](https://github.com/feruzoripov/tsgap) A Python library for simulating realistic missingness in time-series data for imputation benchmarking.
 
 ### R
 
