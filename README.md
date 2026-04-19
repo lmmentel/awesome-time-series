@@ -5,33 +5,33 @@
 
 A collection of resources for working with sequential and time series data
 
-- [📈 Time series resources 📉](#-time-series-resources-)
-  - [📦 Packages](#-packages)
-    - [Python](#python)
-      - [Date and Time](#date-and-time)
-      - [Feature Engineering](#feature-engineering)
-      - [Time Series Segmentation & Change Point Detection](#time-series-segmentation--change-point-detection)
-      - [Time Series Augmentation](#time-series-augmentation)
-      - [Visualization](#visualization)
-      - [Benchmarking & Contests](#benchmarking--contests)
-    - [R](#r)
-    - [Java](#java)
-    - [JavaScript](#javascript)
-      - [Visualization](#visualization-1)
-    - [Spark](#spark)
-    - [MATLAB](#matlab)
-  - [🗄️ Databases](#️-databases)
-    - [Managed database services](#managed-database-services)
-  - [✏️ Annotation and Labeling](#-annotation-and-labeling)
-  - [📝 Papers with code](#-papers-with-code)
-  - [💻 Repos with Models](#-repos-with-models)
-  - [⚙️ Web Applications](#-web-applications)
-  - [📚 Books](#-books)
-  - [🎓 Courses](#-courses)
-  - [💬 Communities](#-communities)
-  - [🗃 Organizations](#-organizations)
-  - [💼 Commercial Platforms](#-commercial-platforms)
-  - [🕶️ More Awesomeness](#️-more-awesomeness)
+- [📦 Packages](#-packages)
+  - [Python](#python)
+    - [Date and Time](#date-and-time)
+    - [Feature Engineering](#feature-engineering)
+    - [Time Series Segmentation \& Change Point Detection](#time-series-segmentation--change-point-detection)
+    - [Time Series Generation and Augmentation](#time-series-generation-and-augmentation)
+    - [Visualization](#visualization)
+    - [Benchmarking \& Contests](#benchmarking--contests)
+  - [R](#r)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+    - [Visualization](#visualization-1)
+  - [Spark](#spark)
+  - [MATLAB](#matlab)
+- [🗄️ Databases](#️-databases)
+  - [Managed database services](#managed-database-services)
+- [✏️ Annotation and Labeling](#️-annotation-and-labeling)
+- [📝 Papers with code](#-papers-with-code)
+- [💻 Repos with Models](#-repos-with-models)
+- [⚙️ Applications](#️-applications)
+- [📚 Books](#-books)
+- [🎓 Courses](#-courses)
+- [Tutorials](#tutorials)
+- [💬 Communities](#-communities)
+- [🗃 Organizations](#-organizations)
+- [💼 Commercial Platforms](#-commercial-platforms)
+- [🕶️ More Awesomeness](#️-more-awesomeness)
 
 ## 📦 Packages
 
@@ -45,6 +45,7 @@ A collection of resources for working with sequential and time series data
 - [cesium](https://github.com/cesium-ml/cesium) Open-Source Platform for Time Series Inference.
 - [darts](https://github.com/unit8co/darts) Time Series Made Easy in Python. A python library for easy manipulation and forecasting of time series.
 - [deeptime](https://github.com/deeptime-ml/deeptime) Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
+- [dependence-forecastability](https://github.com/AdamKrysztopa/dependence-forecastability) Horizon-wise forecastability triage for time series. Surrogate significance testing before you ever train a model.
 - [dtw-python](https://github.com/DynamicTimeWarping/dtw-python) Python port of R's Comprehensive Dynamic Time Warp algorithm package.
 - [etna](https://github.com/tinkoff-ai/etna) ETNA is an easy-to-use time series forecasting framework.
 - [fost](https://github.com/microsoft/FOST) Forecasting open source tool aims to provide an easy-use tool for spatial-temporal forecasting.
