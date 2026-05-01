@@ -44,6 +44,7 @@ A collection of resources for working with sequential and time series data
 - [Auto_TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows.
 - [cesium](https://github.com/cesium-ml/cesium) Open-Source Platform for Time Series Inference.
 - [darts](https://github.com/unit8co/darts) Time Series Made Easy in Python. A python library for easy manipulation and forecasting of time series.
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) AI-powered crypto time series prediction with ML ensemble (XGBoost, LightGBM, HMM). 72 engineered time series features, walk-forward validation, pump detection, and multi-exchange support.
 - [deeptime](https://github.com/deeptime-ml/deeptime) Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
 - [dtw-python](https://github.com/DynamicTimeWarping/dtw-python) Python port of R's Comprehensive Dynamic Time Warp algorithm package.
 - [etna](https://github.com/tinkoff-ai/etna) ETNA is an easy-to-use time series forecasting framework.
