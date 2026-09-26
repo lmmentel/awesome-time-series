@@ -73,6 +73,7 @@ A collection of resources for working with sequential and time series data
 - [pyFTS](https://github.com/PYFTS/pyFTS) An open source library for Fuzzy Time Series in Python.
 - [Pyod](https://github.com/yzhao062/Pyod) A Python toolbox for scalable outlier detection (Anomaly Detection).
 - [PyPOTS](https://github.com/WenjieDu/PyPOTS) A python toolbox/library for data mining on partially-observed time series (A.K.A. irregularly-sampled time series), supporting tasks of forecasting/imputation/classification/clustering on incomplete multivariate time series with missing values.
+- [PySAD](https://github.com/selimfirat/pysad) A Python library for anomaly detection on streaming data.
 - [pyspi](https://github.com/olivercliff/pyspi) Comparative analysis of pairwise interactions in multivariate time series.
 - [pytimetk](https://github.com/business-science/pytimetk) The time series toolkit for python.
 - [rrcf](https://github.com/kLabUM/rrcf) Implementation of the Robust Random Cut Forest algorithm for anomaly detection on streams.
