@@ -5,6 +5,7 @@
 
 A collection of resources for working with sequential and time series data
 
+- [Dense-Armor](https://github.com/tatopenn-cell/Dense-Armor) A Python library on JAX for online learning on streams, with time series (AR, VAR, Kalman), changepoint and drift detection.
 - [📈 Time series resources 📉](#-time-series-resources-)
   - [📦 Packages](#-packages)
     - [Python](#python)
