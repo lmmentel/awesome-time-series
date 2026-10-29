@@ -324,6 +324,7 @@ A collection of resources for working with sequential and time series data
 
 - [Forecasting with Structural AR Timeseries | PyMC](https://www.pymc.io/projects/examples/en/latest/time_series/Forecasting_with_structural_timeseries.html)
 - [Time-related feature engineering - scikit learn](https://scikit-learn.org/stable/auto_examples/applications/plot_cyclical_feature_engineering.html)
+- [Box-Jenkins Methodology in R](https://onlinestatisticstutoring.com/box-jenkins-methodology/) Guide to Box-Jenkins Methodology in R.
 
 ## 💬 Communities
 
